@@ -25,6 +25,47 @@ Basic steps to use git and github.
 6. [Adding everything to repository](#adding-everything-to-repository)
 7. [Push everything to Github](#push-everything-to-github)
 
+### Others
+- [What is Star?](#what-is-star)
+- [What is Fork?](#what-is-fork)
+- [How can I see my commits?](#how-can-you-see-your-commits)
+- [How can I change private repository to public?](#how-can-i-change-private-repository-to-public)
+
+---
+
+### What is Star?
+If you like a repository, you can give an star to that repository. Just like giving a like to a post in instagram. You just have to click on the star logo.
+
+<img src="./shots/11.png" width="500" />
+
+---
+
+### What is Fork?
+You can copy someones repository into your own repositories by clicking the fork.
+
+<img src="./shots/11.png" width="500" />
+
+---
+
+### How can you see your commits?
+In your repository, click here:
+
+<img src="./shots/12.png" width="500" />
+
+---
+
+### How can I change private repository to public?
+Go to repository and go to _Settings_ section:
+
+<img src="./shots/9.png" width="500" />
+
+Scroll to bottom and to go this section:
+
+<img src="./shots/10.png" width="600" />
+
+Click change visibility and choose public mode, enter the repository and click what it says.
+
+---
 
 # How can I do it?
 
