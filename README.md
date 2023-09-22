@@ -1,9 +1,3 @@
-<h1 align="center">
-  Git Learning
-</h1>
-
-<br />
-
 <p align="center">
   <img src="logo.webp" width="800" /><br />
   Basic steps to use git and github
